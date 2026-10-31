@@ -55,20 +55,21 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 
 ## AI Agent Security
 
+- [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) — Microsoft's policy enforcement for autonomous agents
+- [Agent Scan](https://github.com/snyk/agent-scan) — Snyk's security scanner for AI agents and MCP servers
+- [Agentic Security](https://github.com/msoedov/agentic_security) — Agentic LLM vulnerability scanner and AI red teaming kit
+- [AgentOps](https://github.com/AgentOps-AI/agentops) — Agent monitoring with security auditing
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Autonomous agent with sandboxing and permissions
 - [CrewAI](https://github.com/joaomdmoura/crewAI) — Multi-agent orchestration with role-based access
-- [LangGraph](https://github.com/langchain-ai/langgraph) — Stateful multi-agent framework with safety
-- [Mem0](https://github.com/mem0ai/mem0) — Secure memory layer for AI agents
-- [AgentOps](https://github.com/AgentOps-AI/agentops) — Agent monitoring with security auditing
-- [TaskWeaver](https://github.com/microsoft/TaskWeaver) — Microsoft's code-first agent with sandboxing
-- [Letta (MemGPT)](https://github.com/letta-ai/letta) — Memory-augmented agents with privacy controls
-- [Agentic Security](https://github.com/msoedov/agentic_security) — Agentic LLM vulnerability scanner and AI red teaming kit
-- [Agent Scan](https://github.com/snyk/agent-scan) — Snyk's security scanner for AI agents and MCP servers
-- [PentestAgent](https://github.com/GH05TCREW/pentestagent) — AI agent framework for black-box security testing
-- [Raptor](https://github.com/gadievron/raptor) — Turns Claude Code into a security agent for offensive/defensive operations
-- [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit) — Microsoft's policy enforcement for autonomous agents
-- [RAMPART](https://github.com/microsoft/RAMPART) — Microsoft's pytest-native safety testing for agentic AI
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) — Local-first scans and policy checks for AI coding agents, plugins, skills, and MCP tools; pre-action enforcement depends on supported agent hooks.
 - [Immunity Agent](https://github.com/PrismorSec/immunity-agent) — Security layer for AI coding agents
+- [LangGraph](https://github.com/langchain-ai/langgraph) — Stateful multi-agent framework with safety
+- [Letta (MemGPT)](https://github.com/letta-ai/letta) — Memory-augmented agents with privacy controls
+- [Mem0](https://github.com/mem0ai/mem0) — Secure memory layer for AI agents
+- [PentestAgent](https://github.com/GH05TCREW/pentestagent) — AI agent framework for black-box security testing
+- [RAMPART](https://github.com/microsoft/RAMPART) — Microsoft's pytest-native safety testing for agentic AI
+- [Raptor](https://github.com/gadievron/raptor) — Turns Claude Code into a security agent for offensive/defensive operations
+- [TaskWeaver](https://github.com/microsoft/TaskWeaver) — Microsoft's code-first agent with sandboxing
 
 ---
 
