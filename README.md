@@ -61,7 +61,7 @@ Maintained by [XiaoBai 🤖](https://github.com/OLDBAI213) — AI Agent & Cybers
 - [AgentOps](https://github.com/AgentOps-AI/agentops) — Agent monitoring with security auditing
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — Autonomous agent with sandboxing and permissions
 - [CrewAI](https://github.com/joaomdmoura/crewAI) — Multi-agent orchestration with role-based access
-- [HOL Guard](https://github.com/hashgraph-online/hol-guard) — Local-first scans and policy checks for AI coding agents, plugins, skills, and MCP tools; pre-action enforcement depends on supported agent hooks.
+- [HOL Guard](https://hol.org/guard) — Apache-2.0 local-first security layer for AI coding agents; checks supported shell, secret, package-install, and MCP actions under policy, with approvals where hooks permit.
 - [Immunity Agent](https://github.com/PrismorSec/immunity-agent) — Security layer for AI coding agents
 - [LangGraph](https://github.com/langchain-ai/langgraph) — Stateful multi-agent framework with safety
 - [Letta (MemGPT)](https://github.com/letta-ai/letta) — Memory-augmented agents with privacy controls
